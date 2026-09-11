@@ -45,6 +45,7 @@ export default function InTheNews() {
               alt="Dr. Jitendra Singh chairing a Department of Science & Technology review featuring SARAL AI"
               width={2000}
               height={894}
+              sizes="(max-width: 767px) calc(100vw - 3rem), (max-width: 1199px) calc((100vw - 6.5rem) / 2), 34.25rem"
               className="w-full h-auto object-cover"
               priority={false}
             />
