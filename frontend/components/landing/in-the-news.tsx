@@ -47,7 +47,6 @@ export default function InTheNews() {
               height={894}
               sizes="(max-width: 767px) calc(100vw - 3rem), (max-width: 1199px) calc((100vw - 6.5rem) / 2), 34.25rem"
               className="w-full h-auto object-cover"
-              priority={false}
             />
           </div>
           <figcaption className="mt-4 text-[13px] text-ink-faint dark:text-white/50 font-sans text-center max-sm:text-left">
